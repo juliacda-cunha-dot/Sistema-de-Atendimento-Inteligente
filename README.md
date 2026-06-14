@@ -22,6 +22,6 @@ André Huff
 atendimento.c, atendimento.h, fila.c, fila.h e o menu do main.c
 
 Júlia C . da Cunha
-lista.c, lista.h, ordenacao.c, ordenacao.h, além da Árvore e da Tabela Hash
-Nome do Integrante:André Huff
+lista.c, lista.h, ordenacao.c, ordenacao.h, além da Árvore e da Tabela Hash.
+Nome do Integrante:André Huff.
 Responsabilidade:atendimento.c,atendimento.h,fila.c,fila.h, e o menu main.c
