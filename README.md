@@ -18,8 +18,7 @@ O código está modularizado seguindo os princípios de Tipo Abstrato de Dados (
 
 Integrantes e Divisão de Responsabilidades
 
-André Huff
-atendimento.c, atendimento.h, fila.c, fila.h e o menu do main.c
+
 
 Júlia C . da Cunha
 lista.c, lista.h, ordenacao.c, ordenacao.h, além da Árvore e da Tabela Hash.
